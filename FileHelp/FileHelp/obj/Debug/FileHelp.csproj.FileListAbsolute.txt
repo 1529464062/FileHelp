@@ -1,0 +1,4 @@
+E:\Project\C#_FileHelp\FileHelp\FileHelp\bin\Debug\FileHelp.dll
+E:\Project\C#_FileHelp\FileHelp\FileHelp\bin\Debug\FileHelp.pdb
+E:\Project\C#_FileHelp\FileHelp\FileHelp\obj\Debug\FileHelp.dll
+E:\Project\C#_FileHelp\FileHelp\FileHelp\obj\Debug\FileHelp.pdb
